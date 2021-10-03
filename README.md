@@ -4,7 +4,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors from India
 
 - 👀 I’m interested in solving challenging problems , developing user friendly softwares and analyzing various algorithms.
 - 🔭 I’m currently a pre-final year student at IIT Indore!.
-- 🌱 I’m currently learning of django and python.
+- 🌱 I’m currently learning django and python.
 
 ## 	Contact Me:
 
