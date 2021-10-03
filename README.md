@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Harsh Vardhan Agrawal
+<h1 align="center"> 👋 Hi, I’m Harsh Vardhan Agrawal</h1>
+
+I'm an Indian Undergraduate Student currently undertaking a Bachelors from Indian Institute of Technology Indore. 
+
 - 👀 I’m interested in solving challenging problems , developing user friendly softwares and analyzing various algorithms.
 - 🔭 I’m currently a pre-final year student at IIT Indore!.
-- 🌱 I’m currently learning application development with flutter.
+- 🌱 I’m currently learning of django and python.
 
-## 	:email:Find me on:
+## 	Contact Me:
 
 <p>
  <a href="mailto:harshvardhanagarwal159@gmail.com@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50" height="50"></a>
